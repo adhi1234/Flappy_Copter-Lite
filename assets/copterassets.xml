@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bc6857288e07a8bee4e01d5819833f24:aaa0a70fa281d850711472b837616019:76613511fb096cd3e63ae15ae97aba02$ -->
+<TextureAtlas imagePath="copterassets.png">
+    <SubTexture name="background" x="1" y="75" width="802" height="482"/>
+    <SubTexture name="fuel_pickup" x="992" y="153" width="21" height="32"/>
+    <SubTexture name="gameover" x="1" y="558" width="414" height="80"/>
+    <SubTexture name="groundGrass" x="1" y="1" width="810" height="73"/>
+    <SubTexture name="life" x="804" y="374" width="116" height="121"/>
+    <SubTexture name="meteorBrown" x="959" y="63" width="45" height="45"/>
+    <SubTexture name="planeRed_01" x="915" y="526" width="90" height="75"/>
+    <SubTexture name="planeRed_02" x="921" y="450" width="90" height="75"/>
+    <SubTexture name="planeRed_03" x="921" y="374" width="90" height="75"/>
+    <SubTexture name="rockGrassDown" x="1" y="738" width="110" height="241"/>
+    <SubTexture name="rockGrassUp" x="804" y="496" width="110" height="241"/>
+    <SubTexture name="shield_01" x="804" y="263" width="135" height="110"/>
+    <SubTexture name="shield_02" x="804" y="141" width="145" height="121"/>
+    <SubTexture name="shield_03" x="812" y="1" width="146" height="139"/>
+    <SubTexture name="shield_pickup" x="950" y="194" width="32" height="32"/>
+    <SubTexture name="star_pickup" x="950" y="153" width="41" height="40"/>
+    <SubTexture name="tap1" x="959" y="109" width="43" height="43" frameX="-18" frameY="-18" frameWidth="61" frameHeight="61"/>
+    <SubTexture name="tap2" x="959" y="1" width="61" height="61"/>
+</TextureAtlas>
